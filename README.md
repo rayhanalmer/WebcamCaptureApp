@@ -1,6 +1,6 @@
 # WebcamCaptureApp
 
-Membuat Aplikasi Media Capture
+Pertemuan 3 - Membuat Aplikasi Media Capture
 
 Nama: Rayhan Almer Kusumah  
 NRP: 502521115  
